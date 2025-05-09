@@ -1,0 +1,21 @@
+# Binaries
+/todo
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+
+# Dependencies
+vendor/
+
+# Generated files
+*.log
+
+# Go build output
+*.exe
+*.dll
+*.so
+*.dylib
