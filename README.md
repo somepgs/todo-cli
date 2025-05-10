@@ -34,24 +34,10 @@ go build -o todo cmd/todo/main.go
 
 ---
 
-## 📁 Структура проекта
-
-todo-cli/
-├── cmd/
-│   └── todo/                # Основной исполняемый CLI-файл
-├── internal/
-│   ├── entity/              # Структуры данных
-│   ├── storage/             # Реализация хранения задач
-│   └── service/             # Бизнес-логика приложения
-├── tasks.json               # Файл с задачами
-├── go.mod, go.sum           # Управление зависимостями
-└── README.md                # Документация проекта
-
----
-
 ## 📬 Автор проекта
 
 Попков Григорий Сергеевич
 
 GitHub:     https://github.com/somepgs
+
 Email:      grishapopkov80@gmail.com
